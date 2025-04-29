@@ -16,6 +16,7 @@ namespace ConsoleApp38
         static void salomlash()
         {
             Console.WriteLine("salom amaliy");
+            Console.WriteLine("hayr amaliy");
         }
     }
 }
