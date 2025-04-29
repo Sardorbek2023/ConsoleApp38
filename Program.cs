@@ -11,6 +11,11 @@ namespace ConsoleApp38
         static void Main(string[] args)
         {
             Console.WriteLine("salom");
+            
+        }
+        static void salomlash()
+        {
+            Console.WriteLine("salom amaliy");
         }
     }
 }
