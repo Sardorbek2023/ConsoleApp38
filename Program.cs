@@ -17,6 +17,7 @@ namespace ConsoleApp38
         {
             Console.WriteLine("salom amaliy");
             Console.WriteLine("hayr amaliy");
+            Console.WriteLine("ikkinchi shaxsdan o'zgarish");
         }
     }
 }
